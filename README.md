@@ -38,7 +38,7 @@ Can be handy to keep track of things to do:
 
 Are easy; just open and close with three backticks.
 
-```javascript
+```python
 var first
     var name
     first = name = prompt("Enter new name, or OK to end")
