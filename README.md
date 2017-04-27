@@ -1,6 +1,6 @@
 # Welcome to the ReadMe for this Project
 
-This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, which includes syntax highlighting, task lists, tables, and @mentions. (@Name, did I miss anything?) 
+This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, which includes syntax highlighting, task lists, tables, and @mentions. (@LouisTCat, did I miss anything?) 
 
 Emoji are also supported in Markdown! :thumbsup: :shipit:
 See the [Emoji Cheat Sheet](http:http://emoji-cheat-sheet.com) for the complete list.
